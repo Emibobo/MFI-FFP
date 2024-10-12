@@ -8,5 +8,8 @@ The diagnosis of lymph node metastasis (LNM) is essential for colorectal cancer 
 ## Multi-modal feature fusion (MFF) module
 ![MFF](https://github.com/user-attachments/assets/12741fa3-aa3a-437c-9fd2-fe05704e3e69)
 ## Results
-![ROC_1](https://github.com/user-attachments/assets/83604643-b4d9-44a2-840a-cc2a9dbe88b5)
-![ROC_2](https://github.com/user-attachments/assets/963fe305-f2c7-4206-abf6-f70bf4fb3ecf)
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github.com/Emibobo/MFI-FFP/blob/main/figures/ROC_1.png" alt="Image 1" width="300"/>
+    <img src="https://github.com/Emibobo/MFI-FFP/blob/main/figures/ROC_2.png" alt="Image 2" width="300"/>
+</div>
+
