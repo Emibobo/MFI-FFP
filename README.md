@@ -7,3 +7,6 @@ The diagnosis of lymph node metastasis (LNM) is essential for colorectal cancer 
 ![framework_revised](https://github.com/user-attachments/assets/ae1b49ab-4e49-452e-b858-09616f3c0aff)
 ## Multi-modal feature fusion (MFF) module
 ![MFF](https://github.com/user-attachments/assets/12741fa3-aa3a-437c-9fd2-fe05704e3e69)
+## Results
+![ROC_1](https://github.com/user-attachments/assets/83604643-b4d9-44a2-840a-cc2a9dbe88b5)
+![ROC_2](https://github.com/user-attachments/assets/963fe305-f2c7-4206-abf6-f70bf4fb3ecf)
