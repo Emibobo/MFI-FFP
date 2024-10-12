@@ -1,10 +1,3 @@
-'''
-Author: Alberto
-Date: 2024-10-12 16:10:41
-LastEditors: Alberto
-LastEditTime: 2024-10-12 16:16:29
-Description: 
-'''
 import torch
 import torchvision.models as models
 import torch.nn.functional as F
