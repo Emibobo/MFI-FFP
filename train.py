@@ -1,10 +1,3 @@
-'''
-Author: Alberto
-Date: 2024-09-10 15:57:27
-LastEditors: Alberto
-LastEditTime: 2024-10-12 16:18:19
-Description: 
-'''
 import os
 os.environ["CUDA_DEVICE_ORDER"] = 'PCI_BUS_ID'
 os.environ["CUDA_VISIBLE_DEVICES"] = '0'#set your CUDA_VISIBLE_DEVICES here
