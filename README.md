@@ -8,10 +8,11 @@ The diagnosis of lymph node metastasis (LNM) is essential for colorectal cancer 
 ## Multi-modal feature fusion (MFF) module
 ![MFF](https://github.com/user-attachments/assets/12741fa3-aa3a-437c-9fd2-fe05704e3e69)
 ## Results
-# ROC curves
+### ROC curves
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github.com/Emibobo/MFI-FFP/blob/main/figures/ROC_1.png" alt="Image 1" width="300"/>
     <img src="https://github.com/Emibobo/MFI-FFP/blob/main/figures/ROC_2.png" alt="Image 2" width="300"/>
 </div>
+
 ## Contact
-Should you have any question, please create an issue on this repository or contact me at emibobo.zxb@gmail.com
+If you have any questions, please create an issue on this repository or contact me at emibobo.zxb@gmail.com
