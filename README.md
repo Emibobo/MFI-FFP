@@ -14,5 +14,18 @@ The diagnosis of lymph node metastasis (LNM) is essential for colorectal cancer 
     <img src="https://github.com/Emibobo/MFI-FFP/blob/main/figures/ROC_2.png" alt="Image 2" width="300"/>
 </div>
 
+## Cite
+If you think our work is useful, please cite it in your work!
+@ARTICLE{10787150,
+  author={Zhu, Xiaobo and Sun, He and Wang, Yuhan and Hu, Gang and Shao, Lizhi and Zhang, Song and Liu, Fucheng and Chi, Chongwei and He, Kunshan and Tang, Jianqiang and An, Yu and Tian, Jie and Liu, Zhenyu},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={Prediction of Lymph Node Metastasis in Colorectal Cancer using Intraoperative Fluorescence Multi-modal Imaging}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Deep learning;multi-modal imaging;intraoperative fluorescence imaging;colorectal cancer;lymph node metastasis prediction},
+  doi={10.1109/TMI.2024.3510836}}
+
 ## Contact
 If you have any questions, please create an issue on this repository or contact me at emibobo.zxb@gmail.com
