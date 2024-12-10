@@ -16,6 +16,7 @@ The diagnosis of lymph node metastasis (LNM) is essential for colorectal cancer 
 
 ## Cite
 If you think our work is useful, please cite it in your work!
+
 @ARTICLE{10787150,
   author={Zhu, Xiaobo and Sun, He and Wang, Yuhan and Hu, Gang and Shao, Lizhi and Zhang, Song and Liu, Fucheng and Chi, Chongwei and He, Kunshan and Tang, Jianqiang and An, Yu and Tian, Jie and Liu, Zhenyu},
   journal={IEEE Transactions on Medical Imaging}, 
